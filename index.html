@@ -919,7 +919,7 @@
   ];
 
   function spawnEmber(){
-    const pool = books.length ? books.map(b => `"${(b.quote || b.title)}"`) : fallbackLines;
+    const pool = fallbackLines;
     const text = pool[Math.floor(Math.random()*pool.length)];
     const el = document.createElement('div');
     el.className = 'ember-quote';
