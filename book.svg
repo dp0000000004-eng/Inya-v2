@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <!-- Background -->
+  <rect width="128" height="128" rx="16" fill="#f3ead2"/>
+
+  <!-- Open book -->
+  <path d="M32 40h64v48H32z" fill="#c9a24b" stroke="#14151f" stroke-width="2"/>
+  <path d="M32 40l32 24 32-24" fill="none" stroke="#14151f" stroke-width="2"/>
+  <path d="M64 64l32 24H32l32-24z" fill="#e8ddc0" stroke="#14151f" stroke-width="1.5"/>
+
+  <!-- Decorative details -->
+  <circle cx="64" cy="64" r="3" fill="#a34a3f"/>
+  <path d="M48 88c0 0 8-4 16-4s16 4 16 4" stroke="#66754f" stroke-width="1.5" stroke-linecap="round"/>
+</svg>
